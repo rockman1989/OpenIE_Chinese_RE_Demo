@@ -3,7 +3,7 @@
 
 最近在做非结化数据的知识提取，用OpenIE提取概念间的关系用到了coreNLP，网上中文的demo比较少，python版本的就更少了，自己写了一个demo，比较简单
 
-#环境&配置
+# 环境&配置
 硬件：我用的云服务器跑的，8核心16G内存，官方没有硬件要求
 
 python=3.5
@@ -22,7 +22,7 @@ https://stanfordnlp.github.io/CoreNLP/index.html#download
 
 pip install stanfordcorenlp
 
-#参考资料
+# 参考资料
 
 https://github.com/Lynten/stanford-corenlp
 
