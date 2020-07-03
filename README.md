@@ -18,6 +18,8 @@ https://stanfordnlp.github.io/CoreNLP/index.html#download
 
 和coreNLP同一个网页，在下面有可选语言模板，中文大概1G+
 
+把下载好的语言模板放在coreNLP文件根目录下
+
 安装stanfordcorenlp
 
 pip install stanfordcorenlp
