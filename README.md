@@ -11,15 +11,19 @@ python=3.5
 jdk=1.8
 
 下载coreNLP
+
 https://stanfordnlp.github.io/CoreNLP/index.html#download
 
 下载语言模板
+
 和coreNLP同一个网页，在下面有可选语言模板，中文大概1G+
 
 安装stanfordcorenlp
+
 pip install stanfordcorenlp
 
 #参考资料
+
 https://github.com/Lynten/stanford-corenlp
 
 https://stanfordnlp.github.io/CoreNLP/index.html#download
